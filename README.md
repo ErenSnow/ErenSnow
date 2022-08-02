@@ -2,7 +2,7 @@
 I am ErenSnow who is a developer from China. 
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="300" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" height="300" />
 
 
 ### **技术栈:**
