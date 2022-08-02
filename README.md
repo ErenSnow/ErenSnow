@@ -1,6 +1,10 @@
 ### Hi there 👋
 I am ErenSnow who is a developer from China. 
 
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="300" />
+
+
 ### **技术栈:**
 
 <a><code><img height="20" src="./images/Java.png"></code></a>
@@ -9,8 +13,6 @@ I am ErenSnow who is a developer from China.
 <a><code><img height="20" src="./images/Flutter.png"></code></a>
 <a><code><img height="20" src="./images/Python.png"></code></a>
 
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="300" />
 
 ### Stats 🌱
 
