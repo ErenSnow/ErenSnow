@@ -1,16 +1,28 @@
 ### Hi there 👋
+I am ErenSnow who is a developer from China. 
 
-<!--
-**ErenSnow/ErenSnow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **技术栈:**
 
-Here are some ideas to get you started:
+<a><code><img height="20" src="./images/Java.png"></code></a>
+<a><code><img height="20" src="./images/Android.png"></code></a>
+<a><code><img height="20" src="./images/Kotlin.png"></code></a>
+<a><code><img height="20" src="./images/Flutter.png"></code></a>
+<a><code><img height="20" src="./images/Python.png"></code></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="300" />
+
+### Stats 🌱
+
+<table cellspacing="0" cellpadding="0" style="border: none">
+  <tr>
+    <td>
+      
+![my github stats](https://github-readme-stats.vercel.app/api?username=ErenSnow&hide=contribs,prs&count_private=true&show_icons=true&theme=onedark)
+    </td>
+    <td>
+      
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErenSnow&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+    </td>
+    </tr> 
+
