@@ -7,11 +7,11 @@ I am ErenSnow who is a developer from China.
 
 ### **技术栈:**
 
-<a><code><img height="20" src="./images/Java.png"></code></a>
-<a><code><img height="20" src="./images/Android.png"></code></a>
-<a><code><img height="20" src="./images/Kotlin.png"></code></a>
-<a><code><img height="20" src="./images/Flutter.png"></code></a>
-<a><code><img height="20" src="./images/Python.png"></code></a>
+<a><code><img height="25" src="./images/Java.png"></code></a>
+<a><code><img height="25" src="./images/Android.png"></code></a>
+<a><code><img height="25" src="./images/Kotlin.png"></code></a>
+<a><code><img height="25" src="./images/Flutter.png"></code></a>
+<a><code><img height="25" src="./images/Python.png"></code></a>
 
 
 ### Links 📌
