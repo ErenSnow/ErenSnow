@@ -16,7 +16,7 @@ I am ErenSnow who is a developer from China.
 
 ### Links 📌
 
-- 学习: [🌟🌟🌟🌟🌟 ](  )
+- 学习: [🌟🌟🌟🌟🌟 ](https://github.com/ErenSnow/Android-Knowledge-System)
 
 
 ### Stats 🌱
